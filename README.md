@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abd-alRahim-Kojan
 - 👀 I’m interested in Web Development & Mobile Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to a new great work
+- 💞️ I’m looking to a new great job in Web Development field
 - 📫 How to reach me: +352 681 570 009
 
 <!---
