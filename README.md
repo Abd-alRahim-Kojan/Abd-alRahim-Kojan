@@ -25,4 +25,4 @@
 
 
 ### 🛠 &nbsp;Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,angular,ts,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,angular,ts,git,github)](https://skillicons.dev)
