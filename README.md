@@ -7,12 +7,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abd-al-rahim-kojan-17080a227" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&pause=1000&color=FFF900&background=2F0A1300&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Angular+Developer+" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/abd-al-rahim-kojan-17080a227" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&pause=1000&color=FFF900&background=2F0A1300&center=true&vCenter=true&random=false&width=435&lines=Senior+Frontend+Developer;Angular+Develper;Vue.js+Developer" alt="Typing SVG" /></a>
 </p>
 
 - 🏢 I'm a FrontEnd Developer, a Professional Angular Developer
 - 👨‍💻 Interested in technology and Web Development
-- ⚡ I have been working as an Angular Developer since 2022
+- ⚡ I'm constantly learning new techniques and things
 
 
 ### Connect with Me :
@@ -22,4 +22,4 @@
 
 
 ### 🛠 &nbsp;Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,angular,ts,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,angular,vue,vuetify,git,github,gitlab,bitbucket)](https://skillicons.dev)
